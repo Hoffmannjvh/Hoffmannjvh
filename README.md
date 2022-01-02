@@ -23,6 +23,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hoffmannjvh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/hoffmannjvh?trk=profile-badge">João Vitor Hoffmann</a></div>
-              
