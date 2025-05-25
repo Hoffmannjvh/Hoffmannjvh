@@ -1,4 +1,4 @@
-### Oiii meu nome é João Vitor Hoffmann, estudante de FULL STACK!
+### Oiii meu nome é João Vitor Hoffmann, estudante de Java Back-End!
 
 <div align="center">
   <a href="https://github.com/hoffmannjvh">
